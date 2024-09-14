@@ -1,1 +1,4 @@
 created for git demo
+
+added my new comments..
+i have told students to read up on git and git hub..
